@@ -7,7 +7,7 @@
 <b>Shopping Cart:</b>Shopping Cart: Add items to the cart, adjust quantities, and view the total before proceeding to checkout.
 <b>Checkout Process:</b>Secure payment processing (can be integrated with Stripe/PayPal), order review, and confirmation.
 <b>Responsive Design:</b>Responsive Design:</b>The website is fully responsive, providing a smooth user experience across all devices.
-<h2><Tech Stack</h2>
+<h2>Tech Stack</h2>
 Frontend: React.js, Bootstrap, Redux (for state management)
 Backend: Node.js, Express.js
 Database: MongoDB 
