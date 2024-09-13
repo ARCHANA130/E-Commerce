@@ -1,4 +1,4 @@
-E-Commerce Clothing Website
+<b>E-Commerce Clothing Website</b>
 Welcome to the E-commerce Clothing Website! This project is a full-stack web application built using the MERN stack (MongoDB, Express, React, and Node.js) to provide a seamless online shopping experience for users looking to browse, search, and purchase clothing items.
 
 Features
