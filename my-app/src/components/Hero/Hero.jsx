@@ -26,10 +26,7 @@ const Hero = () => {
           <div className="hero-right">
             <img src={hero_image} alt="" />
           </div>
-          
-      <div className='text-amber-900'>
-        Continue shopping
-      </div>
+      
 
       
     </div>
