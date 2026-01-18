@@ -6,7 +6,7 @@ import hero_image from '../Assetss/hero_image.png'
 const Hero = () => {
   return (
     <>
-    <div className='text-bold text-blue-700'> my name is Archana</div>
+    <div className='text-bold text-blue-600'> my name is Archana</div>
     < div className='hero'>
         <div className="hero-left"> 
           <div className='text-white'>Hello users</div>
